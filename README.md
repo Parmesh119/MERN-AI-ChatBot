@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Hello, Hope everything is working fine 😅
 
 # Check appropriate branches.
@@ -10,3 +11,6 @@ Includes base project template for NodeJs, MongoDB, Typescript and Lint
 Includes final code. 😃
 
 Feel Free to share any doubts or corrections.
+=======
+AI Chatbot
+>>>>>>> final
